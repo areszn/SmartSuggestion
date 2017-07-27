@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.mikera:vectorz:0.41.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/mikera/vectorz/0.41.2/vectorz-0.41.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/mikera/vectorz/0.41.2/vectorz-0.41.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/mikera/vectorz/0.41.2/vectorz-0.41.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

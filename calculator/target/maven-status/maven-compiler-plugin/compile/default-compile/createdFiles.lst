@@ -1,0 +1,14 @@
+zzli\Model\Action.class
+zzli\Model\User.class
+zzli\Dao\ElasticTemplate.class
+zzli\Application.class
+zzli\Model\CommonContentId.class
+zzli\Model\Rate.class
+zzli\Model\UserKeywords.class
+zzli\Model\RecByCF.class
+zzli\Business\Worker.class
+zzli\Config\MyConfig.class
+zzli\Model\Item.class
+zzli\Model\RecByContent.class
+zzli\Dao\ElasticTemplate$1.class
+zzli\Model\CommonContent.class
